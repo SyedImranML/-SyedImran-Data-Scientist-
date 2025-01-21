@@ -1,25 +1,37 @@
 # Hi there, I'm Syed Imran Ahmed 👋
 
-## About Me
+## 🚀 About Me
 
-I am **Syed Imran Ahmed**, a **Sr. Data Scientist Lead** based in **HiTech City**. With a passion for leveraging data to drive insights, I specialize in crafting innovative solutions using machine learning and generative AI technologies. 
+I am **Syed Imran Ahmed**, a **Sr. Data Scientist Lead** based in **HiTech City**. with a deep passion for leveraging data to solve complex real-world problems. As a thought leader in the fields of Artificial Intelligence and Machine Learning, I specialize in crafting innovative generative AI solutions and advancing the frontiers of digital transformation.
+
+I hold an **International Fellowship** from **Cambridge Digital University** and possess an extensive academic background, including:
+
+- 👨‍🎓 ***B.Tech*** in **Electronics and Communication Engineering (ECE)**
+
+- 📜 ***Master's*** in **Engineering (Digital Systems)**
+
+- 📜 ***Ph.D.*** in **Artificial Intelligence (AI)**
+
+With over a decade of experience, my journey is marked by innovation, collaboration, and a relentless drive to deliver impactful solutions.
 
 ### Current Focus
-- Building generative AI solutions for real-world applications.
-- Exploring novel use cases in data science, including conversational AI and visual data interaction.
+- 🌱 Building generative AI solutions for real-world applications.
+- 🔭 Exploring novel use cases in data science, including conversational AI and visual data interaction.
 
 ### Passions & Interests
-- Generative AI and its applications.
+- Developing generative AI applications for real-world challenges.
 - End-to-end project implementations with a focus on finance and sales domains.
 - Real-time data monitoring and IoT integration with AI.
 
+
 ---
 
-## Skills and Tools
+## 🛠️ Skills and Tools
 
 ### Programming Languages
 - Python
 - JavaScript
+- C++ and C with OOPs programming
 
 ### Frameworks & Libraries
 - Django, Flask, Streamlit
@@ -36,7 +48,7 @@ I am **Syed Imran Ahmed**, a **Sr. Data Scientist Lead** based in **HiTech City*
 
 ---
 
-## Projects
+## 💼 Projects
 
 ### 1. **Chatbot_csv**
 - **Description**: A FAISS-based question-answering chatbot that interacts with CSV data, leveraging sentence embeddings and Hugging Face's QA pipeline.
@@ -54,26 +66,20 @@ I am **Syed Imran Ahmed**, a **Sr. Data Scientist Lead** based in **HiTech City*
 
 ## Stats and Achievements
 
-### GitHub Stats
-- **Repositories**: 10+
-- **Stars**: 50+
-- **Followers**: 20+
+### 📈 GitHub Stats
+
+![Syed Imran Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedImranML&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedImranML&layout=compact&theme=radical)
+
 
 ### Achievements & Certifications
-- Advanced Generative AI Certification from Upgrad
-- Successfully implemented client-focused projects in generative AI and IoT.
+- **Outstanding Project Award** presented by the **Department of Electronics and Communication Engineering**.
+- International Fellow Member of **Cambridge Digital University**.
 
 ---
 
-## Contact Me
-
-### Portfolio & Socials
-- **Portfolio Website**: [Visit My Portfolio](#)
-- **LinkedIn**: [Syed Imran Ahmed](#)
-- **Twitter**: [@SyedImranML](#)
-
-### Email
-- **Email**: syed.imran@domain.com
+## 📫 How to Reach Me
+- **Email**: syedimran1234.dba5@gmail.com
 
 ---
 
